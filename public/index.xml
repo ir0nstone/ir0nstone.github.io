@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>ir0nstone</title>
+<link>http://example.org/</link>
+<description>Recent content on ir0nstone</description>
+<generator>Hugo -- gohugo.io</generator>
+<language>en-us</language>
+<lastBuildDate>Wed, 03 Mar 2021 12:24:34 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Welcome</title>
+<link>http://example.org/posts/my-first-post/</link>
+<pubDate>Wed, 03 Mar 2021 12:24:34 +0000</pubDate>
+<guid>http://example.org/posts/my-first-post/</guid>
+<description>New Blog yes This will probably be where I put writeups and stuff yes
+The rest of the writeup is password-protected, please enter the flag to continue:
+
+
+--- DON'T MODIFY THIS LINE ---
+THIS IS HIDDEN!
+
+ </description>
+</item>
+</channel>
+</rss>
